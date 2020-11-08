@@ -1,7 +1,7 @@
 /*
  * The MIT License
  *
- * Copyright 2020 MooMoo191.
+ * Copyright 2020 Ruan191.
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
@@ -24,7 +24,7 @@
 
 /**
  *
- * @author MooMoo191
+ * @author Ruan191
  */
 package hash;
 
