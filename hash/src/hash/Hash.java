@@ -18,7 +18,8 @@ public class Hash {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter text to be searched");
         String userInput = input.nextLine();
-        
+        input.close();
+
         System.out.println(hashTable.hashStringValueExist(userInput));
 
     }    
